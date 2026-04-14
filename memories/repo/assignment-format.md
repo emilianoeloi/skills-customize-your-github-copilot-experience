@@ -1,0 +1,3 @@
+- Assignment markdowns in assignments/**/*.md must follow templates/assignment-template.md exactly for structural headings and section order.
+- Structural headings stay in English with the same emojis; descriptive content may be in Portuguese.
+- Required core sections: Assignment title, Objective, Tasks, per-task Description, per-task Requirements with short measurable bullets.
